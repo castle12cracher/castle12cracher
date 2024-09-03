@@ -1,4 +1,7 @@
-## Hi there 👋
+Salve
+
+-estudante da alura
+-desenvolvendo javascript
 
 <!--
 **castle12cracher/castle12cracher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
